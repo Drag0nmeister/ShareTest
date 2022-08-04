@@ -1,9 +1,9 @@
 public class Practics2  {
     public static void main(String[] args) {
-        giveInt();
+   giveInfo();
     }
-    public static void giveInt(){
-        System.out.println(2);
+    public static void giveInfo(){
+        System.out.println("Произошло изменение");
     }
 }
 
