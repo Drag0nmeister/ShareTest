@@ -5,5 +5,4 @@ public interface Dad {
     default  void printName(){
         sayHello();
     }
-
 }
